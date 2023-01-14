@@ -16,11 +16,3 @@ Desafio para praticar: Context API, Navigations, FlatList, StyledComponents
 - Expo
 - Context Api
 
-## Para executar o projeto
-
-Utilize o **yarn install** ou o **npm install** para instalar as dependências do projeto.
-Em seguida, inicie o projeto.
-
-```cl
-expo start
-```
